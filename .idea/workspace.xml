@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="041bd609-7818-4043-8dbc-78e9e47d68f4" name="Default Changelist" comment="[golang]B站公链项目">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sdhChain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Block.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/BlockChain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/BlockChainIterator.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Merkile_tree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/ProofOfWork.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server_GetData.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server_Inv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server_Version.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server_block.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server_getblocks.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server_handle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server_send.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Server_var.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Transaction.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Transaction_Outputs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Transaction_TXInput.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Transaction_TXOutput.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/Transaction_UTXO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/BLC/UTXO_Set.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/CLI_UTXO_Reset.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/CLI_createWallet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/CLI_createblockchain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/CLI_getaddresslists.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/CLI_getbalance.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/CLI_printchain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/CLI_send.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/CLI_startnode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/CLI/Cli.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/Mine/MineBlock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/Utils/Constant.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/Utils/Utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/Wallet/Wallet_wallet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/Wallet/Wallet_wallets.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/Wallet/base58.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicPrototype/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wx2Y2QmunuF2YK4RJlnzYyEXPZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BasicPrototype/BLC" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BasicPrototype/BLC" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BasicPrototype/Wallet" />
+      <recent name="$PROJECT_DIR$/BasicPrototype/BLC" />
+      <recent name="$PROJECT_DIR$/BasicPrototype" />
+      <recent name="$PROJECT_DIR$/BasicPrototype/Consensus" />
+      <recent name="$PROJECT_DIR$/BasicPrototype/Utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sdhChain" />
+      <working_directory value="$PROJECT_DIR$/BasicPrototype" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/BasicPrototype/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sdhChain/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sdhChain" />
+      <working_directory value="$PROJECT_DIR$/BasicPrototype" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/BasicPrototype/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sdhChain/BasicPrototype/Base58" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sdhChain" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/BasicPrototype/Base58/main.go" />
+      <package value="sdhChain/BasicPrototype/Base58" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sdhChain/BasicPrototype/Wallet" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sdhChain" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/BasicPrototype/Wallet/main.go" />
+      <package value="sdhChain/BasicPrototype/Wallet" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sdhChain/BoltDB" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sdhChain" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/BoltDB/main.go" />
+      <package value="sdhChain/BoltDB" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build sdhChain/" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build sdhChain/BoltDB" />
+      <item itemvalue="Go Build.go build sdhChain/BasicPrototype/Base58" />
+      <item itemvalue="Go Build.go build sdhChain/BasicPrototype/Wallet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build sdhChain/BasicPrototype/Wallet" />
+        <item itemvalue="Go Build.go build sdhChain/BasicPrototype/Base58" />
+        <item itemvalue="Go Build.go build sdhChain/BoltDB" />
+        <item itemvalue="Go Build.go build sdhChain/" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[golang]B站公链项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="[golang]B站公链项目" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="345" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1629387355693">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="633" y="345" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1629386864808" />
+    <state x="633" y="345" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.25.1792.1002@0.25.1792.1002" timestamp="1629387355693" />
+    <state x="360" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629609554729">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="360" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1629609554729" />
+    <state x="601" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632981272069">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="601" y="330" key="#com.intellij.fileTypes.FileTypeChooser/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1629794365831" />
+    <state x="601" y="330" key="#com.intellij.fileTypes.FileTypeChooser/1792.25.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1630633305021" />
+    <state x="601" y="330" key="#com.intellij.fileTypes.FileTypeChooser/1792.65.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632981272069" />
+    <state x="601" y="329" key="#com.intellij.fileTypes.FileTypeChooser/1792.65.1920.1055/0.25.1792.999@0.25.1792.999" timestamp="1632924660944" />
+    <state x="601" y="330" key="#com.intellij.fileTypes.FileTypeChooser/1792.99.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632055157319" />
+    <state x="655" y="398" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1632836840092">
+      <screen x="0" y="25" width="1792" height="999" />
+    </state>
+    <state x="655" y="398" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1792.65.1920.1055/0.25.1792.999@0.25.1792.999" timestamp="1632836840092" />
+    <state x="705" y="447" key="Github.CreateGistDialog" timestamp="1632989896392">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="705" y="447" key="Github.CreateGistDialog/1792.65.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632989896392" />
+    <state width="1750" height="269" key="GridCell.Tab.0.bottom" timestamp="1630502972761">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state width="1750" height="269" key="GridCell.Tab.0.bottom/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1630502972761" />
+    <state width="1750" height="269" key="GridCell.Tab.0.center" timestamp="1630502972760">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state width="1750" height="269" key="GridCell.Tab.0.center/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1630502972760" />
+    <state width="1750" height="269" key="GridCell.Tab.0.left" timestamp="1630502972760">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state width="1750" height="269" key="GridCell.Tab.0.left/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1630502972760" />
+    <state width="1750" height="269" key="GridCell.Tab.0.right" timestamp="1630502972760">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state width="1750" height="269" key="GridCell.Tab.0.right/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1630502972760" />
+    <state x="405" y="160" key="SettingsEditor" timestamp="1629621776828">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="405" y="160" key="SettingsEditor/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1629621776828" />
+    <state x="405" y="160" key="SettingsEditor/0.25.1792.1002@0.25.1792.1002" timestamp="1629387542591" />
+    <state x="496" y="261" key="Vcs.Push.Dialog.v2" timestamp="1632990880510">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="496" y="261" key="Vcs.Push.Dialog.v2/1792.65.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632990880510" />
+    <state x="684" y="335" key="save.file.as.template.dialog" timestamp="1631671501442">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="684" y="335" key="save.file.as.template.dialog/1792.99.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1631671501442" />
+    <state x="561" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1632980992377">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="561" y="245" width="670" height="676" key="search.everywhere.popup/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1630406663125" />
+    <state x="561" y="245" width="670" height="676" key="search.everywhere.popup/1792.65.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632980992377" />
+    <state x="561" y="244" width="670" height="674" key="search.everywhere.popup/1792.65.1920.1055/0.25.1792.999@0.25.1792.999" timestamp="1632905745398" />
+    <state x="561" y="245" width="670" height="676" key="search.everywhere.popup/1792.99.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1631671680438" />
+  </component>
+</project>
