@@ -140,11 +140,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build sdhChain/" />
       <item itemvalue="Go Build.go build main.go" />
-      <item itemvalue="Go Build.go build sdhChain/BoltDB" />
       <item itemvalue="Go Build.go build sdhChain/BasicPrototype/Base58" />
       <item itemvalue="Go Build.go build sdhChain/BasicPrototype/Wallet" />
+      <item itemvalue="Go Build.go build sdhChain/BoltDB" />
+      <item itemvalue="Go Build.go build sdhChain/" />
     </list>
     <recent_temporary>
       <list>
